@@ -1,0 +1,30 @@
+body 
+{
+    background-color: black;
+}
+h1
+{
+    color:blue;
+    text-align: center;
+    text-decoration: solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2
+{
+    font-size: 46px;
+    color:aliceblue;
+}
+button
+{
+    font-size:36px;
+    padding :10px;
+    margin:10px;
+    text-align: center;
+}
+.main
+{
+    
+    position: relative;
+    left:45vw;
+
+}
